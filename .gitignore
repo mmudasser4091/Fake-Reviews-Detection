@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large local NLTK data directory (auto-downloaded by nltk)
+nltk_data/
+
+# Output prediction files
+fake_reviews.csv
+real_reviews.csv
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & OS files
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
